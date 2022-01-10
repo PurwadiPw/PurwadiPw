@@ -16,7 +16,7 @@
 Talk to me about:
 - Front-end development using **Vue, React, Tailwind, Bootstrap**.
 - Back-end development using **PHP (Laravel, Codeigniter), Node.Js (Adonis, Fastify)**.
-- Mobile application development using **React Native and Flutter**.
+- Mobile application development using **React Native** and **Flutter**.
 - Making for **Relational Database Management Systems**.
 - DevOps **Docker**.
 
