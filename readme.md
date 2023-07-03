@@ -10,7 +10,7 @@
 </p>
 
 ---
-✨ I am a Full-Stack Developer with 6+ years of experience. Always enjoy writing structured code and I also prioritize security programs. And just young man that did not stop to learn.
+✨ I am a Software Engineer with 6+ years of experience. While frontend development is my forte, I also like to dive into the backend and mobile world. Always enjoy writing structured code and always seeking opportunities to level up my skills. I would be a fast learner in doing new things and building good teamwork either.
 
 ## ⚡ Technologies
 Talk to me about:
@@ -23,4 +23,4 @@ Talk to me about:
 ## 🐣 Hello World!!
 - 🔭 I’m currently working in Bandung, Indonesia
 - 🌱 I’m currently learning Go-Lang
-- ⚡ Fun fact: Open Source Enthusiast. A fan of Laravel and Vue.js
+- ⚡ Fun fact: Open Source Enthusiast. A fans of Laravel and Vue.js
