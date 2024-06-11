@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hi there! I'm Purwadi</h3>
-<h4 align="center">The code writer still has to learn what to code.</h4>
+<h4 align="center">A code writer who still has to learn what to code.</h4>
 <br>
 <p align="center">
   <a href="https://github.com/PurwadiPw" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-PurwadiPw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
@@ -10,12 +10,12 @@
 </p>
 
 ---
-✨ I am a Software Engineer with 6+ years of experience. While frontend development is my forte, I also like to dive into the backend and mobile world. Always enjoy writing structured code and always seeking opportunities to level up my skills. I would be a fast learner in doing new things and building good teamwork either.
+✨ I am a Software Developer with a foundation in both Front-end and Back-end technologies. While frontend development is my forte, I also like to dive into the backend and mobile world. Always enjoy writing structured code and always seeking opportunities to level up my skills. I would be a fast learner in doing new things and building good teamwork either.
 
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **Vue, React, Tailwind, Bootstrap**.
-- Back-end development using **PHP (Laravel, Codeigniter), Node.Js (Adonis, Fastify)**.
+- Back-end development using **PHP (Laravel, Codeigniter), Node.Js (NestJS, AdonisJS)**.
 - Mobile application development using **React Native** and **Flutter**.
 - Making for **Relational Database Management Systems**.
 - DevOps **Docker**.
@@ -23,4 +23,3 @@ Talk to me about:
 ## 🐣 Hello World!!
 - 🔭 I’m currently working in Bandung, Indonesia
 - 🌱 I’m currently learning Go-Lang
-- ⚡ Fun fact: Open Source Enthusiast. A fans of Laravel and Vue.js
